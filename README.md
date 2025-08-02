@@ -45,25 +45,3 @@
     ```
 3.  **打開 `index.html`**：
     使用任何現代瀏覽器（如 Chrome, Firefox, Edge）直接打開專案根目錄下的 `index.html` 文件即可。
-
-### 部署
-
-由於是純前端應用，您可以將整個專案目錄部署到任何靜態文件伺服器或 CDN 上。
-
-## 貢獻
-
-我們歡迎所有形式的貢獻，包括但不限於功能建議、錯誤報告、程式碼改進或文件更新。請遵循以下指南：
-
-1.  Fork 本倉庫。
-2.  創建您的功能分支 (`git checkout -b feature/AmazingFeature`)。
-3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
-4.  推送到遠端分支 (`git push origin feature/AmazingFeature`)。
-5.  打開一個 Pull Request。
-
-## 版權聲明
-
-本專案採用 MIT 許可證。詳情請參閱 `LICENSE` 文件。
-
-## 聯繫與支持
-
-如果您在使用過程中遇到任何問題，或有任何建議，請透過 GitHub Issues 提交。
