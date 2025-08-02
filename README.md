@@ -45,6 +45,3 @@
     ```
 3.  **打開 `index.html`**：
     使用任何現代瀏覽器（如 Chrome, Firefox, Edge）直接打開專案根目錄下的 `index.html` 文件即可。
-## 聯繫與支持
-
-如果您在使用過程中遇到任何問題，或有任何建議，請透過 GitHub Issues 提交。
