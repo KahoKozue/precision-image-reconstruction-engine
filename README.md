@@ -45,3 +45,7 @@
     ```
 3.  **打開 `index.html`**：
     使用任何現代瀏覽器（如 Chrome, Firefox, Edge）直接打開專案根目錄下的 `index.html` 文件即可。
+
+## License
+
+MIT — see [LICENSE](LICENSE).
